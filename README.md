@@ -39,23 +39,9 @@ User-Friendly Interface: Users can easily input the desired currency pairs and t
 
 
 
-## Libraries Used
-
-Pandas: Data manipulation and analysis
-
-Matplotlib: Data visualization
-
-Scikit-learn: Machine learning algorithms and tools
-
-TensorFlow: Deep learning frameworks (depending on the chosen model).
-
-Requests: HTTP requests for data collection.
-
-
-
 ## Contribution
 
-Contributions to this project are welcome and encouraged! If you have suggestions for improvements or want to add new features, please follow the typical GitHub pull request process.
+Contributions to this project are welcome and encouraged! If you have suggestions for improvements or want to add new features, please follow the typical GitHub pull request process:
 
 Fork the repository.
 
@@ -66,6 +52,8 @@ Commit your changes: git commit -m 'Add new feature'.
 Push to the branch: git push origin feature-new-idea.
 
 Open a pull request explaining your changes and their benefits.
+
+
 
 
 
