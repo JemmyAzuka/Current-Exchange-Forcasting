@@ -35,7 +35,6 @@ Forecasting Models: Various machine learning algorithms are employed to predict 
 
 Visualization: The project includes visualization tools to help users understand the historical trends and predicted future movements of exchange rates.
 
-User-Friendly Interface: Users can easily input the desired currency pairs and timeframes for which they want to obtain predictions. The interface provides intuitive visualizations and downloadable forecast data.
 
 
 
