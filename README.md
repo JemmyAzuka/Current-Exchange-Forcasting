@@ -11,13 +11,7 @@ Introduction
 
 Features
 
-Usage
-
-Libraries Used
-
 Contribution
-
-License
 
 
 
